@@ -2,6 +2,7 @@
 # Fall 2019 CNA 330
 # Semion Kalinin sskalinin@student.rtc.edu
 #Robin, Emily, Brandon, Sam, Alan and Mustafa helped me with this project!
+#Sources: Kevin Huynh (At&t Dev)
 
 import mysql.connector
 import json
